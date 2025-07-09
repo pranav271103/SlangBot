@@ -1,6 +1,6 @@
 # SlangBot — Conversational Bot using GENz Slangs
 
-SlangBot is a lightweight NLP chatbot that understands informal slang, abbreviations, and internet language. It translates them into clean, formal English using a fine-tuned language model hosted on 🤗 Hugging Face.
+SlangBot is a lightweight NLP chatbot that understands informal slang, abbreviations, and internet language. It translates them into clean, formal English using a fine-tuned language model.
 
 ---
 
